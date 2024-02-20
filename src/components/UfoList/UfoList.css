@@ -1,0 +1,14 @@
+.UfoListUl {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    li {
+        margin: 1rem;
+        transition: box-shadow 0.3s;
+    }
+}
+li:hover {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+:root {
+	--night: #0d160b;
+	--bole: #774936;
+	--vanilla: #f7e9a1;
+	--rose-pink: #ff62cd;
+	--aqua: #3bf4fb;
+
+	font-family: 'Orbitron', sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1.5;
+	background-color: var(--night);
+}
+
+
+body {
+    background-color: var(--vanilla);
+	display: flex;
+	justify-content: center;
+} 

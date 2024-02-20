@@ -1,0 +1,30 @@
+.Button {
+    width: 15rem;
+    height: 2rem;
+    border-radius: 5rem;
+    border: 2px solid transparent;
+    margin: 1rem;
+    background-color: var(--bole); 
+    color: var(--night);
+    text-align: center;
+    text-transform: uppercase;
+    transition: box-shadow 0.3s, border-radius 0.3s, border-color 0.3s, background-color 0.3s;
+
+    &:hover {
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        border-color: var(--aqua);
+    }
+
+    &.Primary {
+        background-color: var(--bole);
+        color: var(--night);
+    }
+    &.Secondary {
+        background-color: var(--bole);
+        color: var(--night);
+    }
+    &.Tetriary {
+        background-color: var(--bole); 
+        color: var(--night);
+    }
+}
