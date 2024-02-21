@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "name": "Millenium Falcon",
+            "from": "Star Wars"
+        },
+        {
+            "name": "USS Enterprise",
+            "from": "Star Trek"
+        },
+        {
+            "name": "TARDIS",
+            "from": "Doctor Who-serien"
+        },
+        {
+            "name": "Serenity",
+            "from": "Firefly-serien och filmen Serenity"
+        },
+        {
+            "name": "Discovery One",
+            "from": "2001: A Space Odyssey"
+        },
+        {
+            "name": "Nostromo",
+            "from": "Alien-filmen"
+        },
+        {
+            "name": "Battlestar Galactica",
+            "from": "Battlestar Galactica-serien"
+        },
+        {
+            "name": "Event Horizon",
+            "from": "Event Horizon-filmen"
+        },
+        {
+            "name": "Sulaco",
+            "from": "Aliens-filmen"
+        },
+        {
+            "name": "Heart of Gold",
+            "from": "Liftarens guide till galaxen"
+        }
+    ]
+}
