@@ -22,14 +22,16 @@ const App = () => {
     return (
 
         <>
-        <h1>🍌 Spacecrafts! 🛸</h1>
+        <header><h1>🍌 Spacecrafts! 🛸</h1></header>
         <NavBar />
         <section>
         <h2>{checkAge(age)}</h2>
         <InfoBox />
         </section>
         <UfoList/>
+        <section className="ButtonsContainer">
         <Buttons/>
+        </section>
         <MonsterBox/>
         <SpaceCraftBox/>
         </>

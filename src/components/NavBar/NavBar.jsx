@@ -3,7 +3,6 @@ import "./NavBar.css";
 const NavBar = () => {
     return (
         <nav className="NavBar">
-            <div className="NavLogo">🛸</div>
             <ul className="NavLinks">
                 <li><a href="/">Homebase</a></li>
                 <li><a href="/about">Spaceport</a></li>

@@ -3,19 +3,22 @@
         {
             "name": "Zaraclaw",
             "eyes": 4,
-            "attribute": "Zaraclaw har lysande blå ögon som kan se i mörkret. Hon har dessutom förmågan att förändra färg beroende på humör, vilket gör hon till ett kamouflage-expert. Zaraclaw är snabb och smidig, perfekt för att röra sig obemärkt i skogarna."
+            "attribute": "Zaraclaw har lysande blå ögon som kan se i mörkret. Hon har dessutom förmågan att förändra färg beroende på humör, vilket gör hon till ett kamouflage-expert. Zaraclaw är snabb och smidig, perfekt för att röra sig obemärkt i skogarna.",
+            "image": "images/zaraclaw.jpg"
 
         },
         {
             "name": "Gorgonox",
             "eyes": 38,
-            "attribute": "Gorgonox är känt för sina många ögon som ger 360-graders syn. Med tentakler för armar som kan sträcka sig upp till tre meter långa, är Gorgonox en mästare på att greppa objekt på avstånd. Han är också känd för att vara klok och strategisk."
+            "attribute": "Gorgonox är känt för sina många ögon som ger 360-graders syn. Med tentakler för armar som kan sträcka sig upp till tre meter långa, är Gorgonox en mästare på att greppa objekt på avstånd. Han är också känd för att vara klok och strategisk.",
+            "image": "images/gorgonox.jpg"
 
         },
         {
             "name": "Dracoleon",
             "eyes": 42,
-            "attribute": "Dracoleons ögon är som små glödande pärlor, och han kan hypnotisera vem som helst som ser in i dem. Med vingar liknande en drake, kan Dracoleon flyga högt över molnen. Han är dessutom känd för sin styrka och mod."
+            "attribute": "Dracoleons ögon är som små glödande pärlor, och han kan hypnotisera vem som helst som ser in i dem. Med vingar liknande en drake, kan Dracoleon flyga högt över molnen. Han är dessutom känd för sin styrka och mod.",
+            "image": "images/dracoleon.jpg"
 
         }
     ]

@@ -1,11 +1,28 @@
 .NavBar {
     display: flex;
-    /* flex-direction: column; */
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
     padding: 1rem;
 
-}
-.NavLogo {
-    font-size: 5rem;
+    .NavLinks {
+        display: flex;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        li {
+            margin-left: 2rem;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--night);
+            padding: 0.5rem 1rem;
+        }
+
+        a:hover {
+            color: var(--aqua);
+        }
+
+    }
 }
