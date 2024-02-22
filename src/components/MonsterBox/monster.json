@@ -10,14 +10,14 @@
         {
             "name": "Gorgonox",
             "eyes": 38,
-            "attribute": "Gorgonox är känt för sina många ögon som ger 360-graders syn. Med tentakler för armar som kan sträcka sig upp till tre meter långa, är Gorgonox en mästare på att greppa objekt på avstånd. Han är också känd för att vara klok och strategisk.",
+            "attribute": "Gorgonox är känt för sina många ögon som ger 360-graders syn. Med armar som kan sträcka sig upp till tre meter långa, är Gorgonox en mästare på att greppa objekt på avstånd. Han är också känd för att vara klok och strategisk.",
             "image": "images/gorgonox.jpg"
 
         },
         {
             "name": "Dracoleon",
             "eyes": 42,
-            "attribute": "Dracoleons ögon är som små glödande pärlor, och han kan hypnotisera vem som helst som ser in i dem. Med vingar liknande en drake, kan Dracoleon flyga högt över molnen. Han är dessutom känd för sin styrka och mod.",
+            "attribute": "Dracoleons ögon är som små glödande pärlor, och han kan hypnotisera vem som helst som ser in i dem.",
             "image": "images/dracoleon.jpg"
 
         }
